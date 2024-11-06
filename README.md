@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://tenor.com/th/view/kanao-gif-21946518">
+    <img src="https://tenor.com/bEfsg.gif">
 </p>
 
 <!-- Skil -->
