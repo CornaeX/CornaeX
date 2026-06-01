@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/CornaeX/CornaeX/blob/main/demonSlayerGif/kanao.gif" width="200">
+  <!-- <img src="https://github.com/CornaeX/CornaeX/blob/main/demonSlayerGif/kanao.gif" width="200"> -->
+  <p align="center">
+    <img src="https://github.com/CornaeX/CornaeX/blob/main/demonSlayerGif/kanao.gif">
+  </p>
   <!-- <h1>Building Systems, One Line at a Time</h1> -->
   <h3>Computer Engineering Student | Naresuan University</h3>
 </div>
