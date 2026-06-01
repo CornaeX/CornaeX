@@ -3,8 +3,7 @@
   <p align="center">
     <img src="https://github.com/CornaeX/CornaeX/blob/main/demonSlayerGif/kanao.gif">
   </p>
-  <!-- <h1>Building Systems, One Line at a Time</h1> -->
-  <h3>Computer Engineering Student | Naresuan University</h3>
+  <h2>Computer Engineering Student | Naresuan University</h2>
 </div>
 
 ---
