@@ -3,7 +3,7 @@
   <p align="center">
     <img src="https://github.com/CornaeX/CornaeX/blob/main/demonSlayerGif/kanao.gif">
   </p>
-  <h2>Computer Engineering Student | Naresuan University</h2>
+  <h1>Computer Engineering Student | Naresuan University</h1>
 </div>
 
 ---
