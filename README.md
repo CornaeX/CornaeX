@@ -27,22 +27,25 @@ Computer Engineering student with a passion for integrating software and hardwar
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
 </p>
 
-**Backend, Languages & Data**
-> *Core logic, database management, and data interchange formats.*
+**Languages & Data**
+> *Core programming languages, database management, and data interchange formats.*
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-663399?style=flat-square&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 </p>
 
-**Systems, Robotics & Simulation**
-> *Hardware integration, robotics middleware, and 3D simulation tools.*
+**Robotics & Simulation Tools**
+> *Hardware integration, robotics middleware, and 3D simulation platforms.* <sub>↳ powered by Python, C/C++ &amp; C# above</sub>
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white">
